@@ -35,6 +35,36 @@ http://ott.mobaibox.com/PLTV/4/224/3221228622/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228112/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV17
 http://ott.mobaibox.com/PLTV/4/224/3221228642/index.m3u8
+#EXTINF:-1 group-title="央视频道",兵器科技
+http://ott.mobaibox.com/PLTV/4/224/3221228686/index.m3u8
+#EXTINF:-1 group-title="央视频道",第一剧场
+http://ott.mobaibox.com/PLTV/4/224/3221228659/index.m3u8
+#EXTINF:-1 group-title="央视频道",风云剧场
+http://ott.mobaibox.com/PLTV/4/224/3221228662/index.m3u8
+#EXTINF:-1 group-title="央视频道",风云音乐
+http://ott.mobaibox.com/PLTV/4/224/3221228665/index.m3u8
+#EXTINF:-1 group-title="央视频道",风云足球
+http://ott.mobaibox.com/PLTV/4/224/3221228668/index.m3u8
+#EXTINF:-1 group-title="央视频道",高尔夫网球
+http://ott.mobaibox.com/PLTV/4/224/3221228138/index.m3u8
+#EXTINF:-1 group-title="央视频道",怀旧剧场
+http://ott.mobaibox.com/PLTV/4/224/3221228671/index.m3u8
+#EXTINF:-1 group-title="央视频道",女性时尚
+http://ott.mobaibox.com/PLTV/4/224/3221228674/index.m3u8
+#EXTINF:-1 group-title="央视频道",山东卫视
+http://ott.mobaibox.com/PLTV/4/224/3221227310/index.m3u8
+#EXTINF:-1 group-title="央视频道",世界地理
+http://ott.mobaibox.com/PLTV/4/224/3221228680/index.m3u8
+#EXTINF:-1 group-title="央视频道",天元围棋
+http://ott.mobaibox.com/PLTV/4/224/3221228513/index.m3u8
+#EXTINF:-1 group-title="央视频道",央视台球
+http://ott.mobaibox.com/PLTV/4/224/3221228683/index.m3u8
+#EXTINF:-1 group-title="央视频道",央视文化精品
+http://ott.mobaibox.com/PLTV/4/224/3221228677/index.m3u8
+#EXTINF:-1 group-title="央视频道",央视指南
+http://ott.mobaibox.com/PLTV/4/224/3221228689/index.m3u8
+#EXTINF:-1 group-title="央视频道",CGTN
+http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
 #EXTINF:-1 group-title="高清臻享频道",CCTV4K
 http://ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
 #EXTINF:-1 group-title="高清臻享频道",CCTV8K
@@ -42,11 +72,9 @@ http://ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 group-title="高清臻享频道",CCTV16-4K
 http://ott.mobaibox.com/PLTV/4/224/3221228168/index.m3u8
 #EXTINF:-1 group-title="高清臻享频道",北京卫视4K
-http://ott.mobaibox.com/PLTV/4/224/3221228817/index.m3u8  
-#EXTINF:-1 group-title="高清臻享频道",北京卫视4K-2
-http://ott.mobaibox.com/PLTV/4/224/3221228890/index.m3u8
+http://ott.mobaibox.com/PLTV/4/224/3221228817/index.m3u8
 #EXTINF:-1 group-title="高清臻享频道",江苏卫视4K
-http://ott.mobaibox.com/PLTV/4/224/3221228897/index.m3u8  
+http://ott.mobaibox.com/PLTV/4/224/3221228897/index.m3u8
 #EXTINF:-1 group-title="高清臻享频道",湖南卫视4K
 http://ott.mobaibox.com/PLTV/4/224/3221228883/index.m3u8
 #EXTINF:-1 group-title="高清臻享频道",山东卫视4K
@@ -61,8 +89,24 @@ http://ott.mobaibox.com/PLTV/4/224/3221228900/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228838/index.m3u8
 #EXTINF:-1 group-title="高清臻享频道",深圳卫视4K
 http://ott.mobaibox.com/PLTV/4/224/3221228835/index.m3u8
+#EXTINF:-1 group-title="高清臻享频道",睛彩竞技
+http://ott.mobaibox.com/PLTV/4/224/3221228679/index.m3u8
+#EXTINF:-1 group-title="高清臻享频道",睛彩篮球
+http://ott.mobaibox.com/PLTV/4/224/3221228682/index.m3u8
+#EXTINF:-1 group-title="高清臻享频道",4K修复
+http://ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
+#EXTINF:-1 group-title="高清臻享频道",移动示范频道
+http://ott.mobaibox.com/PLTV/4/224/3221228589/index.m3u8
+#EXTINF:-1 group-title="卫视频道",凤凰卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
+#EXTINF:-1 group-title="卫视频道",凤凰香港
+http://ott.mobaibox.com/PLTV/4/224/3221228530/index.m3u8
+#EXTINF:-1 group-title="卫视频道",凤凰新闻
+http://ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
 #EXTINF:-1 group-title="卫视频道",五星体育
-http://82.156.243.185:54321/wxty.php
+https://cdn15.163189.xyz/163189/wxty
+#EXTINF:-1 group-title="卫视频道",五星体育-2
+http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://ott.mobaibox.com/PLTV/4/224/3221227552/index.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
@@ -73,6 +117,8 @@ http://ott.mobaibox.com/PLTV/4/224/3221227511/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221227558/index.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://ott.mobaibox.com/PLTV/4/224/3221227508/index.m3u8
+#EXTINF:-1 group-title="卫视频道",北京纪实
+http://ott.mobaibox.com/PLTV/4/224/3221227699/index.m3u8
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
@@ -278,55 +324,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221229050/index.m3u8
 #EXTINF:-1 group-title="省内频道",宜兴紫砂
 http://ott.mobaibox.com/PLTV/3/224/3221229021/index.m3u8
 #EXTINF:-1 group-title="省内频道",宜兴生活
-http://ott.mobaibox.com/PLTV/3/224/3221229018/index.m3u8 
-#EXTINF:-1 group-title="高清臻享频道",4KUHD
-http://ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
-#EXTINF:-1 group-title="高清臻享频道",睛彩竞技
-http://ott.mobaibox.com/PLTV/4/224/3221228679/index.m3u8
-#EXTINF:-1 group-title="高清臻享频道",睛彩篮球
-http://ott.mobaibox.com/PLTV/4/224/3221228682/index.m3u8
-#EXTINF:-1 group-title="卫视频道",北京纪实
-http://ott.mobaibox.com/PLTV/4/224/3221227699/index.m3u8
-#EXTINF:-1 group-title="高清臻享频道",4K修复
-http://ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
-#EXTINF:-1 group-title="高清臻享频道",移动示范频道
-http://ott.mobaibox.com/PLTV/4/224/3221228589/index.m3u8
-#EXTINF:-1 group-title="央视频道",兵器科技
-http://ott.mobaibox.com/PLTV/4/224/3221228686/index.m3u8
-#EXTINF:-1 group-title="央视频道",第一剧场
-http://ott.mobaibox.com/PLTV/4/224/3221228659/index.m3u8
-#EXTINF:-1 group-title="央视频道",风云剧场
-http://ott.mobaibox.com/PLTV/4/224/3221228662/index.m3u8
-#EXTINF:-1 group-title="央视频道",风云音乐
-http://ott.mobaibox.com/PLTV/4/224/3221228665/index.m3u8
-#EXTINF:-1 group-title="央视频道",风云足球
-http://ott.mobaibox.com/PLTV/4/224/3221228668/index.m3u8
-#EXTINF:-1 group-title="央视频道",高尔夫网球
-http://ott.mobaibox.com/PLTV/4/224/3221228138/index.m3u8
-#EXTINF:-1 group-title="央视频道",怀旧剧场
-http://ott.mobaibox.com/PLTV/4/224/3221228671/index.m3u8
-#EXTINF:-1 group-title="央视频道",女性时尚
-http://ott.mobaibox.com/PLTV/4/224/3221228674/index.m3u8
-#EXTINF:-1 group-title="央视频道",山东卫视
-http://ott.mobaibox.com/PLTV/4/224/3221227310/index.m3u8
-#EXTINF:-1 group-title="央视频道",世界地理
-http://ott.mobaibox.com/PLTV/4/224/3221228680/index.m3u8
-#EXTINF:-1 group-title="央视频道",天元围棋
-http://ott.mobaibox.com/PLTV/4/224/3221228513/index.m3u8
-#EXTINF:-1 group-title="央视频道",央视台球
-http://ott.mobaibox.com/PLTV/4/224/3221228683/index.m3u8
-#EXTINF:-1 group-title="央视频道",央视文化精品
-http://ott.mobaibox.com/PLTV/4/224/3221228677/index.m3u8
-#EXTINF:-1 group-title="央视频道",央视指南
-http://ott.mobaibox.com/PLTV/4/224/3221228689/index.m3u8
-#EXTINF:-1 group-title="央视频道",CGTN
-http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
-#EXTINF:-1 group-title="卫视频道",凤凰卫视
-http://ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
-#EXTINF:-1 group-title="卫视频道",凤凰香港
-http://ott.mobaibox.com/PLTV/4/224/3221228530/index.m3u8
-#EXTINF:-1 group-title="卫视频道",凤凰新闻
-http://ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221229018/index.m3u8
 #EXTINF:-1 group-title="省内频道",南京监控1
 http://ott.mobaibox.com/PLTV/4/224/3221228709/index.m3u8
 #EXTINF:-1 group-title="省内频道",南京监控2
@@ -464,7 +462,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221228692/index.m3u8
 #EXTINF:-1 group-title="综艺频道",滑雪
 http://ott.mobaibox.com/PLTV/4/224/3221228726/index.m3u8
 #EXTINF:-1 group-title="综艺频道",滑雪2
-http://ott.mobaibox.com/PLTV/4/224/3221228737/index.m3u8  
+http://ott.mobaibox.com/PLTV/4/224/3221228737/index.m3u8
 #EXTINF:-1 group-title="轮播频道",电影轮播
 http://ott.mobaibox.com/PLTV/4/224/3221227579/index.m3u8
 #EXTINF:-1 group-title="轮播频道",电影轮播
