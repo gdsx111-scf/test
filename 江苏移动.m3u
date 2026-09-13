@@ -104,7 +104,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221228530/index.m3u8
 #EXTINF:-1 group-title="卫视频道",凤凰新闻
 http://ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
 #EXTINF:-1 group-title="卫视频道",五星体育
-https://cdn15.163189.xyz/163189/wxty
+http://101.35.240.114:88/live.php?id=五星体育
 #EXTINF:-1 group-title="卫视频道",五星体育-2
 http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 #EXTINF:-1 group-title="卫视频道",江苏卫视
